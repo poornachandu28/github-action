@@ -5,6 +5,6 @@ jobs:
     runs-on: windows
     steps:
       - name: Print greeting
-        run: echo"Hello world"
+        run: echo "Hello world"
       - name: Print goodbye
-        run: echo"Done bye"
+        run: echo "Done bye"
